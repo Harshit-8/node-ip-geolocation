@@ -1,0 +1,27 @@
+{
+  "name": "node-ip-geolocation",
+  "version": "1.0.0",
+  "description": "A npm package to retreive geolocation of a public IP",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshit-8/node-ip-geolocation.git"
+  },
+  "keywords": [
+    "geolocation"
+  ],
+  "author": "Harshit Saxena",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Harshit-8/node-ip-geolocation/issues"
+  },
+  "homepage": "https://github.com/Harshit-8/node-ip-geolocation#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7"
+  }
+}
